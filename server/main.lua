@@ -1,3 +1,12 @@
+-- Created by RezaNoel
+-- Version 1.0
+-- _  _  _____  ____  __   
+--( \( )(  _  )( ___)(  )  
+-- )  (  )(_)(  )__)  )(__ 
+--(_)\_)(_____)(____)(____)
+
+
+
 ESX = nil
 TriggerEvent(Config.ESX, function(obj) ESX = obj end)
 
